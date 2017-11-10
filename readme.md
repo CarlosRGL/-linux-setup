@@ -32,9 +32,9 @@ Open the Gnome Tweak Tool from the Applications list or from the terminal with t
 
 ### Hyper shell terminal
 
-I use the [Hyper Shell] (https://hyper.is/) as my main terminal and some plugins to make it better 😛
+I use the [Hyper Shell](https://hyper.is/) as my main terminal and some plugins to make it better 😛
 
-you can check some others plugin at [this repo] (https://github.com/bnb/awesome-hyper)
+you can check some others plugin at [this repo](https://github.com/bnb/awesome-hyper)
 
 to install plugins, just edit the `~/hyper.js` file and add the name of the plugins like this :
 ```
