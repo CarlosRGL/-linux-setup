@@ -95,6 +95,5 @@ yo can edit/create a file called `.bash_aliases` and write there your custom ali
 ### Visual Studio Code
 You may get the VSCode from its official site: https://code.visualstudio.com/
 
-
 ## bye!
 Hope you can find some usefulness in this setup! If you want to give a hello, shout out, my Twitter is [@carlosRGL](https://twitter.com/Carlosrgl_88). See you!
